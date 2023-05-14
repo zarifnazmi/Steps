@@ -1,3 +1,5 @@
+// components/CircularProgressBar.tsx 
+
 import React, { useState } from 'react';
 import { View, Text, StyleSheet, TextInput, TouchableOpacity } from 'react-native';
 import { Circle, G, Svg } from 'react-native-svg';

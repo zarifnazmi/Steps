@@ -1,3 +1,5 @@
+// components/BottomBtn.tsx
+
 import React from 'react';
 import { Text, TouchableOpacity, StyleSheet, Dimensions } from 'react-native';
 

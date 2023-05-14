@@ -1,3 +1,5 @@
+// navigation/AppStack.tsx
+
 import React from 'react';
 import { 
     StyleSheet,

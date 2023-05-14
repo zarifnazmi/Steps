@@ -1,3 +1,5 @@
+// screens/FirstOnboardingScreen.tsx
+
 import React from 'react';
 import { NativeStackNavigationProp } from '@react-navigation/native-stack';
 import { RootStackParamList } from '../navigation/AuthStack';

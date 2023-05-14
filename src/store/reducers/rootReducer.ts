@@ -1,3 +1,5 @@
+// store/reducers/rootReducers
+
 import { combineReducers } from '@reduxjs/toolkit';
 
 // Import your reducers here

@@ -1,3 +1,5 @@
+// navigation/index.tsx
+
 import React from 'react';
 import AuthStack from './AuthStack';
 import AppStack from './AppStack';

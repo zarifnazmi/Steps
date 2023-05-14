@@ -1,3 +1,5 @@
+// store/actions/useGoal.ts
+
 import { useDispatch } from 'react-redux';
 import { saveGoal } from '../reducers/goalSlice';
 

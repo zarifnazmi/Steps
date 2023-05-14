@@ -1,3 +1,5 @@
+// screens/HomeScreen.tsx
+
 import React from 'react';
 import {
     Text,

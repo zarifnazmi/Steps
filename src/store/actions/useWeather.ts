@@ -1,3 +1,5 @@
+// store/actions/useWeather.ts
+
 import { useDispatch } from 'react-redux';
 import { setWeatherData } from '../reducers/weatherSlice';
 

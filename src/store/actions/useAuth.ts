@@ -1,3 +1,5 @@
+// store/actions/useAuth.ts
+
 import { useDispatch } from 'react-redux';
 import { switchAuth } from '../reducers/authSlice';
 

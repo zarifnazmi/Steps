@@ -1,3 +1,5 @@
+// App.tsx
+
 import React from 'react';
 import Providers from './src/navigation';
 import { Text } from 'react-native';

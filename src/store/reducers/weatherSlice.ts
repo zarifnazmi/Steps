@@ -1,3 +1,5 @@
+// store/reducers/weatherSlice.ts
+
 import { createSlice, PayloadAction } from '@reduxjs/toolkit';
 
 interface WeatherItem {

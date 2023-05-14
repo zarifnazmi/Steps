@@ -1,3 +1,5 @@
+// context/HealthProvider.tsx
+
 import React, { ReactNode, useState, useEffect } from 'react';
 import { createContext } from 'use-context-selector';
 import AppleHealthKit, { HealthKitPermissions, HealthUnit } from 'react-native-health';
