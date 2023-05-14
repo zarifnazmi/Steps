@@ -1,6 +1,7 @@
 #import "AppDelegate.h"
 
 #import <React/RCTBundleURLProvider.h>
+#import "RCTAppleHealthKit.h"
 
 @implementation AppDelegate
 
@@ -16,6 +17,7 @@
 
 - (NSURL *)sourceURLForBridge:(RCTBridge *)bridge
 {
+  [[RCTAppleHealthKit new] initializeBackgroundObservers:bridge];
 #if DEBUG
   return [[RCTBundleURLProvider sharedSettings] jsBundleURLForBundleRoot:@"index"];
 #else
